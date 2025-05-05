@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Alexis A. Sisneros**, Git lover
+<<<<<<< HEAD
+**Alexis A. Sisneros**, Git lover & Larry Plotter Lover
+
